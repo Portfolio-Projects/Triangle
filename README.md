@@ -75,5 +75,4 @@ document.querySelector('form#triangle-entry').addEventListener('submit', event =
 ```
 
 
-### How to check: 
-Check the Solution online here: https://codepen.io/anon/pen/qgEWdd
+#### Check the Solution online here: https://codepen.io/anon/pen/qgEWdd
