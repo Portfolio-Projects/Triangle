@@ -35,7 +35,7 @@ Write a program that will determine the type of a triangle. It should take the l
 
 ```
 
-### Javascript Code written with ECMASCRIPT 6
+### Javascript Code - ECMASCRIPT 6
 
 ```Javascript
 let triangle = (side1, side2, side3) => {
