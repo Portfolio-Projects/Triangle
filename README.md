@@ -60,13 +60,10 @@ document.querySelector('form#triangle-entry').addEventListener('submit', event =
         let side1 = parseInt(document.querySelector("input#side1").value);
         let side2 = parseInt(document.querySelector("input#side2").value);
         let side3 = parseInt(document.querySelector("input#side3").value);
-        console.log(side1);
-
 
         let result = triangle(side1, side2, side3);
 
         document.querySelector(".tri").innerText = result;
-
 
     });
     
