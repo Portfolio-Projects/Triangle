@@ -12,6 +12,6 @@ Write a program that will determine the type of a triangle. It should take the l
 - GIT, Git repository; 
 
 #### Check the Solution online here: https://codepen.io/anon/pen/qgEWdd?editors=1010
-  <p align="center">
+  <p align="left">
     <img src="https://raw.githubusercontent.com/Portfolio-Projects/Triangle/master/img/triangle.png">
   </p>
