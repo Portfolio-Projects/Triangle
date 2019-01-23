@@ -16,4 +16,6 @@ Write a program that will determine the type of a triangle. It should take the l
     <img src="https://raw.githubusercontent.com/Portfolio-Projects/Triangle/master/img/triangle.png">
   </p>
 
-<iframe width="560" height="315" src="https://codepen.io/anon/pen/qgEWdd?editors=1010" frameborder="0" allowfullscreen></iframe>
+<figure class="video_container">
+  <iframe src="https://codepen.io/anon/pen/qgEWdd?editors=1010" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
