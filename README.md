@@ -15,3 +15,4 @@ Write a program that will determine the type of a triangle. It should take the l
   <p align="left">
     <img src="https://raw.githubusercontent.com/Portfolio-Projects/Triangle/master/img/triangle.png">
   </p>
+
