@@ -11,13 +11,9 @@ Write a program that will determine the type of a triangle. It should take the l
 - CSS, Bootstrap 4, HTML5;
 - GIT, Git repository; 
 
-#### Check the Solution online here: https://codepen.io/anon/pen/qgEWdd?editors=1010
+#### Check the Solution online here(https://codepen.io/anon/pen/qgEWdd?editors=1010):
   <p align="left">
     <img src="https://raw.githubusercontent.com/Portfolio-Projects/Triangle/master/img/triangle.png">
   </p>
-
-<figure class="video_container">
-  <iframe src="https://codepen.io/anon/pen/daPKqN?editors=1010" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
 
