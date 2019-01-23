@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+<div class="container p-4 mt-3">
+<h6>Triangles - Figure out what kind of triangle your measurements are below.</h6>
+
+ <form id="triangle-entry" class="card mt-4 p-3 col-sm-5">
+    <div id="result">
+      <p class="tri p-3 mb-2 text-dark"></p>
+    </div>
+     <div class="form-group input-group ">
+        <div class="input-group-prepend">
+            <span class="input-group-text"> First side</span>
+        </div>
+       <input id="side1" type="number" min="1" max="100" class="form-control">
+     </div>
+    <div class="form-group input-group">
+      <div class="input-group-prepend">
+         <span class="input-group-text">Second side</span>
+      </div>
+      <input id="side2" type="number" min="1" max="100" class="form-control">
+    </div>
+    <div class="form-group input-group">
+       <span class="input-group-text">Third side</span>
+      <input id="side3" type="number" min="1" max="100" class="form-control">
+    </div>
+  <button type="submit" class="btn btn-primary btn-lg">Submit</button>
+</form>
+
+</div>
+  </body>
